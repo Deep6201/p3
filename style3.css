@@ -1,0 +1,7 @@
+div p{
+    color:red;
+    background-color:lightgreen;
+}
+article > ol{
+    background-color:red;
+}
